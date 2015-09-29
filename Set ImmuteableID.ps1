@@ -1,5 +1,3 @@
-﻿PowerShell
-
 #Import MS Online Services PowerShell Module
 Import-Module MSOnline
 
