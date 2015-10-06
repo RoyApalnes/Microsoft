@@ -1,4 +1,10 @@
-﻿Function Send-PileMail
+﻿#Author: Roy Apalnes
+#Author Mail: roy.apalnes@gmail.com
+#Author Twitter: @royapalnes
+#Author Blog: itiscloudy.com
+#Contributor: Simon Wåhlin, Christian Knarvik
+
+Function Send-PileMail
 {
     [cmdletbinding()]
     Param
